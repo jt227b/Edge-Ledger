@@ -155,7 +155,7 @@ p {
      /* Overlay */
      position: absolute;
      /* This makes the fade start under the navbar */
-     top: 63px;
+     top: 65px;
      left: 0;
      right: 0;
      bottom: 0;
