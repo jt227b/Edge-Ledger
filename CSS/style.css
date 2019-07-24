@@ -138,7 +138,7 @@ p {
 
 /* Showcase */
 #showcase {
-     background: #333 url('/img/showcase.jpg') no-repeat center center/cover;
+     background: #333 url('../img/showcase.jpg') no-repeat center center/cover;
      /* Use VH to cover the whole page */
      height: 100vh;
      color: #fff;
