@@ -138,6 +138,7 @@ p {
 
 /* Showcase */
 #showcase {
+     position: relative;
      background: #333 url('../img/showcase.jpg') no-repeat center center/cover;
      /* Use VH to cover the whole page */
      height: 100vh;
@@ -155,7 +156,7 @@ p {
      /* Overlay */
      position: absolute;
      /* This makes the fade start under the navbar */
-     top: 65px;
+     top: 0px;
      left: 0;
      right: 0;
      bottom: 0;
