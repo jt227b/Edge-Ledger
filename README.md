@@ -4,7 +4,7 @@ We are an Account Advisory Group that provides consulting and financial informat
 
 ## Getting Started
 
-EdgeLedger  
+EdgeLedger is a one page Accounting Consultant page that provides the user with information on what they do, who they are, their clients and a contact for to reach out to the company for more info.
 
 ## Deployment
 
@@ -34,11 +34,12 @@ HTML, CSS, snipit of JavaScript
 
 Landing Page:
 
+![Website](https://user-images.githubusercontent.com/46248532/62147967-5587bc00-b2be-11e9-800e-91720562020b.png)
 
 
 Mobile Responsive:
 
-
+![mobileWebsite](https://user-images.githubusercontent.com/46248532/62147983-5b7d9d00-b2be-11e9-835f-59bc0df6d6d2.png)
 
 
 
